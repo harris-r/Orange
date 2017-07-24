@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
 
-  s.source_files  = 'Classes/*.{h,m,swift}'
+  s.source_files  = 'OrangeFramework/*.{h,m,swift}'
 
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 end
