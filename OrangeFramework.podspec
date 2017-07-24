@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "OrangeFramework"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "My test framework"
 
 
